@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Modelos matemáticos y estadísticos aplicados en big data'
